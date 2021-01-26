@@ -41,3 +41,5 @@
 # IDE Project files
 /.idea
 /upload/.idea
+
+/data/mysql/*
